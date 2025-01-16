@@ -19,10 +19,6 @@ This project includes two machine learning algorithms implemented in Python:
 - `knn.py`: Python implementation of the K-Nearest Neighbors algorithm.
 - `decision_tree.py`: Python implementation of the Decision Tree algorithm with both brute-force and binary entropy approaches.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/Machine_Learning_KNN_and_Decision_Trees.git
 
 
 
